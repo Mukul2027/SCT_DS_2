@@ -1,60 +1,36 @@
-\# Task 2: Exploratory Data Analysis (EDA)
+# Task 2: Exploratory Data Analysis (EDA)
 
-
-
-\## Objective
+## Objective
 
 To perform data cleaning and exploratory data analysis on Titanic dataset.
 
+## Tools Used
 
+- Python
+- Pandas
+- Matplotlib
+- Seaborn
 
-\## Tools Used
-
-\- Python
-
-\- Pandas
-
-\- Matplotlib
-
-\- Seaborn
-
-
-
-\## Dataset
+## Dataset
 
 Titanic dataset
 
+## Process
 
+- Loaded dataset
+- Handled missing values
+- Removed unnecessary columns
+- Performed data visualization
+- Analyzed relationships between variables
 
-\## Process
+## Key Insights
 
-\- Loaded dataset
+- Females survived more than males
+- Higher class passengers had better survival
+- Age and fare influenced survival
 
-\- Handled missing values
+## Files Included
 
-\- Removed unnecessary columns
-
-\- Performed data visualization
-
-\- Analyzed relationships between variables
-
-
-
-\## Key Insights
-
-\- Females survived more than males
-
-\- Higher class passengers had better survival
-
-\- Age and fare influenced survival
-
-
-
-\## Files Included
-
-\- Task2\_EDA.ipynb
-
-\- screenshots
-
-\- recording.mp4
-
+- task2_eda.ipynb
+- screenshots
+- task2_execution.mp4
